@@ -1,11 +1,11 @@
+
+"User":
 {
-  "User":
-  {
-      "id": "59eeb05ae24f254dfab9ec75",
-      "name": "inKi",
-      "isActive": false,
-      "balance": "$2,113.07",
-      "picture": "http://placehold.it/32x32",
-      "age": 21
-  }
+    "id": "59eeb05ae24f254dfab9ec75",
+    "name": "inKi",
+    "isActive": false,
+    "balance": "$2,113.07",
+    "picture": "http://placehold.it/32x32",
+    "age": 21
 }
+
