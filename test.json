@@ -1,47 +1,50 @@
 [
-  {
-    "_id": "59eeb05ae24f254dfab9ec75",
-    "index": 0,
-    "guid": "1bac5822-4853-410e-8c31-e10def5c4b2e",
-    "isActive": false,
-    "balance": "$2,113.07",
-    "picture": "http://placehold.it/32x32",
-    "age": 21,
-    "eyeColor": "brown",
-    "name": "Tamika Pitts",
-    "gender": "female",
-    "company": "DOGNOSIS",
-    "email": "tamikapitts@dognosis.com",
-    "phone": "+1 (883) 583-3622",
-    "address": "208 Greene Avenue, Chical, Montana, 6849",
-    "about": "Ex nulla voluptate deserunt nulla ipsum adipisicing cillum et aliquip incididunt aliquip quis commodo do. Ut officia amet aute occaecat quis enim culpa nulla incididunt mollit duis. Culpa sit Lorem sint non exercitation nostrud excepteur enim eu ad nulla nostrud voluptate. Aliquip anim mollit ut in ea ut ut amet consectetur qui velit.\r\n",
-    "registered": "2017-03-29T01:12:35 -07:00",
-    "latitude": 22.005846,
-    "longitude": 90.49709,
-    "tags": [
-      "qui",
-      "dolor",
-      "consequat",
-      "enim",
-      "aute",
-      "aliquip",
-      "proident"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Marisa Moon"
-      },
-      {
-        "id": 1,
-        "name": "Whitley Tillman"
-      },
-      {
-        "id": 2,
-        "name": "Juliana Sanford"
-      }
-    ],
-    "greeting": "Hello, Tamika Pitts! You have 9 unread messages.",
-    "favoriteFruit": "banana"
-  }
+  "User" :
+  [
+    {
+      "_id": "59eeb05ae24f254dfab9ec75",
+      "index": 0,
+      "guid": "1bac5822-4853-410e-8c31-e10def5c4b2e",
+      "isActive": false,
+      "balance": "$2,113.07",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "brown",
+      "name": "Tamika Pitts",
+      "gender": "female",
+      "company": "DOGNOSIS",
+      "email": "tamikapitts@dognosis.com",
+      "phone": "+1 (883) 583-3622",
+      "address": "208 Greene Avenue, Chical, Montana, 6849",
+      "about": "Ex nulla voluptate deserunt nulla ipsum adipisicing cillum et aliquip incididunt aliquip quis commodo do. Ut officia amet aute occaecat quis enim culpa nulla incididunt mollit duis. Culpa sit Lorem sint non exercitation nostrud excepteur enim eu ad nulla nostrud voluptate. Aliquip anim mollit ut in ea ut ut amet consectetur qui velit.\r\n",
+      "registered": "2017-03-29T01:12:35 -07:00",
+      "latitude": 22.005846,
+      "longitude": 90.49709,
+      "tags": [
+        "qui",
+        "dolor",
+        "consequat",
+        "enim",
+        "aute",
+        "aliquip",
+        "proident"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Marisa Moon"
+        },
+        {
+          "id": 1,
+          "name": "Whitley Tillman"
+        },
+        {
+          "id": 2,
+          "name": "Juliana Sanford"
+        }
+      ],
+      "greeting": "Hello, Tamika Pitts! You have 9 unread messages.",
+      "favoriteFruit": "banana"
+    }
+  ]
 ]
