@@ -1,8 +1,27 @@
-{
-      "id": "59eeb05ae24f254dfab9ec75",
-      "name": "inKi",
-      "isActive": false,
-      "balance": "$2,113.07",
-      "picture": "http://placehold.it/32x32",
-      "age": 21
-  }
+[
+      {
+            "id": "59eeb05ae24f254dfab9ec75",
+            "name": "inKi",
+            "isActive": false,
+            "balance": "$2,113.07",
+            "picture": "http://placehold.it/32x32",
+            "age": 21
+      },
+      {
+            "id": "59eeb05ae24f254dfab9ec76",
+            "name": "inKi 02",
+            "isActive": true,
+            "balance": "$2,113.07",
+            "picture": "http://placehold.it/32x32",
+            "age": 22
+      },
+      {
+            "id": "59eeb05ae24f254dfab9ec77",
+            "name": "inKi 03",
+            "isActive": true,
+            "balance": "$2,113.07",
+            "picture": "http://placehold.it/32x32",
+            "age": 23
+      }
+      
+]
