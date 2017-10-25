@@ -1,0 +1,11 @@
+{
+      "id": "59eeb05ae24f254dfab9ec75",
+      "name": "inKi",
+      "isActive": false,
+      "balance": "$2,113.07",
+      "images": [
+        {"path": "http://placehold.it/32x32"},
+        {"path": "http://placehold.it/64x64"}
+      ],
+      "age": 21
+}
