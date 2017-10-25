@@ -1,5 +1,6 @@
 { 
-   "User":
+   "Users":
+   [
      {
            "id": "59eeb05ae24f254dfab9ec75",
            "name": "inKi",
@@ -8,4 +9,5 @@
            "picture": "http://placehold.it/32x32",
            "age": 21
        }
+   ]
 }
